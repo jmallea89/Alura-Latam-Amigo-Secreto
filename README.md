@@ -31,9 +31,9 @@ La idea principal es crear una aplicación web que permita a los usuarios **ingr
 
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/jmallea89/Challenges-Alura-Latam.git
 Abrir el archivo index.html en tu navegador.
 
 Ingresar los nombres de los amigos y presionar Añadir.
 
-Una vez cargados todos, presionar Sortear amigo para conocer al amigo secreto 🎉.
+Una vez cargados todos, presionar Sortear amigo para conocer al amigo secreto.
