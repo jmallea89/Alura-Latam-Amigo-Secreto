@@ -18,7 +18,7 @@ La idea principal es crear una aplicación web que permita a los usuarios **ingr
 
 ## Estructura del proyecto
 
-📦 Challenges-Alura-Latam
+📦 Alura-Latam-Amigo-Secreto
 ┣ 📜 index.html
 ┣ 📜 style.css
 ┣ 📜 app.js
@@ -28,7 +28,7 @@ La idea principal es crear una aplicación web que permita a los usuarios **ingr
 
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/jmallea89/Challenges-Alura-Latam.git
+   git clone https://github.com/jmallea89/Alura-Latam-Amigo-Secreto.git
 Abrir el archivo index.html en tu navegador.
 
 Ingresar los nombres de los amigos y presionar Añadir.
