@@ -18,10 +18,7 @@ La idea principal es crear una aplicación web que permita a los usuarios **ingr
 
 ## Estructura del proyecto
 
-📦 amigo-secreto
-┣ 📂 assets
-┃ ┗ amigo-secreto.png
-┃ ┗ play_circle_outline.png
+📦 Challenges-Alura-Latam
 ┣ 📜 index.html
 ┣ 📜 style.css
 ┣ 📜 app.js
